@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JackHDean
-- 👀 I’m interested in Test Automation & Development
-- 🌱 I’m currently learning AWS
+- 👀 I’m interested in RPA Automation
+- 🌱 I’m currently learning Microsoft Power Automate
 - 📫 jackharveydean@gmail.com
 
 <!---
